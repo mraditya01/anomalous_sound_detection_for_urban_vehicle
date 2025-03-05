@@ -5,8 +5,6 @@
 
 This repository contains the code and models developed for detecting, denoising, classifying, and localizing anomalous urban sounds to enhance autonomous vehicle safety. The work is based on the manuscript *"Anomalous Sound Localization and Classification in Urban Environments for Mobile Autonomous Vehicles"*.
 
-> **Note:** Detailed instructions for using the `train.ipynb` notebook will be provided later.
-
 ---
 
 ## Overview
