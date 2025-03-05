@@ -70,9 +70,6 @@ To get started, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-
-*Note: The `requirements.txt` file should list all dependencies required by the project (e.g., TensorFlow/PyTorch, NumPy, SciPy, etc.).*
-
 ---
 
 ## Usage
